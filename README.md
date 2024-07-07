@@ -47,7 +47,7 @@ The CSS file includes styles for:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/bbq-product-page.git
+    git clone https://github.com/lambersonistaken/bbq-product-page.git
     ```
 
 2. **Navigate to the project directory**:
