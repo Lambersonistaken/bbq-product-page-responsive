@@ -117,6 +117,10 @@ body {
     outline: none;
 }
 
+.form input:focus {
+    border: 1px solid rgb(255, 180, 17);
+}
+
 .form input::placeholder {
     color: gray;
     text-align: center;
@@ -136,6 +140,12 @@ body {
     text-transform: uppercase;
     cursor: pointer;
     outline: none;
+}
+
+.form button:hover {
+    background: rgb(255, 124, 0);
+    background: linear-gradient(90deg, rgba(255, 124, 0, 1) 0%, rgba(255, 174, 0, 0.945) 100%);
+    transform: scale(1.02);
 }
 
 
